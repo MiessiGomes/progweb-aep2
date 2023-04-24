@@ -1,0 +1,26 @@
+[
+  {
+    "nome": "José Ricardo",
+    "email": "josericardo@teste1.com",
+    "ra": "00000-01",
+    "idade": 23
+  },
+  {
+    "nome": "André Volpato",
+    "email": "andrevolpato@teste2.com",
+    "ra": "00000-02",
+    "idade": 23
+  },
+  {
+    "nome": "Leonardo Losso",
+    "email": "leonardolosso@teste3.com",
+    "ra": "00000-03",
+    "idade": 24
+  },
+  {
+    "nome": "Caio",
+    "email": "caio@teste.com",
+    "ra": "00000-04",
+    "idade": 19
+  }
+]
